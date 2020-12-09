@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97147436626",
+    "project_id": "internship-cdab8",
+    "storage_bucket": "internship-cdab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97147436626:android:5dcdce87d8e97ab299698b",
+        "android_client_info": {
+          "package_name": "com.example.internship_iku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97147436626-rnvg8ceg8ktbu9a6v616pnfjf9v4fng0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9K0wZRkAFVbLqYVRZ4q1Gir7r8rptSvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97147436626-rnvg8ceg8ktbu9a6v616pnfjf9v4fng0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
